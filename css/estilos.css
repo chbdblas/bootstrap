@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+}
+ul{
+  border-radius: 0 0 5px 5px;
+}
+.container{
+  background-color:
+}
+.logo{
+    background-color: #21272c;
+    min-height: 15%;
+    border: none;
+}
+.logo-img{
+  width: 200px;
+}
+
+.espacio{
+  height: 3px;
+}
+.user-blas{
+  width: 70px;
+
+}
+.espacio2{
+  height: 10px;
+}
+
+.vcenter{
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.vcenterb{
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
